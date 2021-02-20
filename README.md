@@ -16,11 +16,7 @@ Please feel free to clone projects, raise issues and submit PRs. Open to help an
 #### Languages I have worked with
 
 <br/>
-<img alt="Javascript" title="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/JavaScript_logo.svg">
-<img alt="Python" title="Python" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/Python-logo.svg">
-<img alt="C++" title="C++" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/C++_Logo.svg">
-<img alt="C" title="C" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/C.svg">
-<img alt="html5" title="html" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/html-5.svg"><img alt="css3" title="css" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/css3.svg">
+<img alt="Javascript" title="JavaScript" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/JavaScript_logo.svg"><img alt="Python" title="Python" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/Python-logo.svg"><img alt="C++" title="C++" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/C++_Logo.svg"><img alt="C" title="C" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/C.svg"><img alt="html5" title="html" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/html-5.svg"><img alt="css3" title="css" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/css3.svg">
 
 <br/>
 <br/>
@@ -28,7 +24,6 @@ Please feel free to clone projects, raise issues and submit PRs. Open to help an
 #### Libraries and Frameworks
 
 <br/>
-<img alt="React" title="React" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/react.svg">
-<img alt="NodeJs" title="NodeJs" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/Node.js_logo.svg"><img alt="VueJS" title="Tensorflow" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/vue.svg">
+<img alt="React" title="React" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/react.svg"><img alt="NodeJs" title="NodeJs" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/Node.js_logo.svg"><img alt="VueJS" title="Tensorflow" height="32" width="32" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/vue.svg">
 
 ---
