@@ -14,7 +14,7 @@ Please feel free to clone projects, raise issues and submit PRs. Open to help an
 
 ---
 
-#### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙸 𝚑𝚊𝚟𝚎 𝚠𝚘𝚛𝚔𝚎𝚍 𝚠𝚒𝚝𝚑
+### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙸 𝚑𝚊𝚟𝚎 𝚠𝚘𝚛𝚔𝚎𝚍 𝚠𝚒𝚝𝚑
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -22,20 +22,27 @@ Please feel free to clone projects, raise issues and submit PRs. Open to help an
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=green)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C)
 
-#### 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
+### 𝙻𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 𝚊𝚗𝚍 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-#### 𝙾𝚝𝚑𝚎𝚛 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝙸 𝚞𝚜𝚎𝚍
+### 𝙾𝚝𝚑𝚎𝚛 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝙸 𝚞𝚜𝚎𝚍
 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase&logoColor=yellow)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+
+### 𝚂𝚘𝚖𝚎 𝚗𝚎𝚛𝚍𝚢 𝚜𝚝𝚞𝚏𝚏 𝚝𝚑𝚊𝚝 𝚢𝚘𝚞 𝚖𝚊𝚢 𝚕𝚒𝚔𝚎
+
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=flat-square&logo=Hackerrank&logoColor=green&link=https://www.hackerrank.com/Genesis_NIL_AG)](https://www.hackerrank.com/Genesis_NIL_AG)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=Codeforces&link=https://codeforces.com/profile/loser_NIL)](https://codeforces.com/profile/loser_NIL)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/nilanjan-deb/)](https://leetcode.com/nilanjan-deb/)
+[![Hackerearth](https://img.shields.io/badge/-Hackerearth-181717?style=flat-square&logo=Hackerearth&link=https://www.hackerearth.com/@nilanjandeb)](https://www.hackerearth.com/@nilanjandeb)
 
 ---
 
@@ -47,11 +54,4 @@ Please feel free to clone projects, raise issues and submit PRs. Open to help an
 
 ---
 
-#### 𝚂𝚘𝚖𝚎 𝚗𝚎𝚛𝚍𝚢 𝚜𝚝𝚞𝚏𝚏 𝚝𝚑𝚊𝚝 𝚢𝚘𝚞 𝚖𝚊𝚢 𝚕𝚒𝚔𝚎
-
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=flat-square&logo=Hackerrank&logoColor=green&link=https://www.hackerrank.com/Genesis_NIL_AG)](https://www.hackerrank.com/Genesis_NIL_AG)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=Codeforces&link=https://codeforces.com/profile/loser_NIL)](https://codeforces.com/profile/loser_NIL)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/nilanjan-deb/)](https://leetcode.com/nilanjan-deb/)
-[![Hackerearth](https://img.shields.io/badge/-Hackerearth-181717?style=flat-square&logo=Hackerearth&link=https://www.hackerearth.com/@nilanjandeb)](https://www.hackerearth.com/@nilanjandeb)
-
-#### 𝚃𝚒𝚖𝚎⌚ 𝚒𝚜 𝚙𝚛𝚎𝚌𝚒𝚘𝚞𝚜, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚜𝚘 𝚖𝚞𝚌𝚑 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ❤️
+### 𝚃𝚒𝚖𝚎⌚ 𝚒𝚜 𝚙𝚛𝚎𝚌𝚒𝚘𝚞𝚜, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚜𝚘 𝚖𝚞𝚌𝚑 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ❤️
