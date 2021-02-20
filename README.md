@@ -10,7 +10,6 @@ Please feel free to clone projects, raise issues and submit PRs. Open to help an
 [![Gmail Badge](https://img.shields.io/badge/-nilanjan172svian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:001pritam2012@gmail.com)](mailto:nilanjan172nsvian@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-_nil_deb-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nil_deb/)](https://www.instagram.com/_nil_deb/)
 [![Twitter Badge](https://img.shields.io/badge/-@_nilanjandeb-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/@_nilanjandeb/)](https://www.twitter.com/@_nilanjandeb/)
-[![Twitter Badge](https://img.shields.io/badge/-@_nilanjandeb-blue?style=flat-square&logo=&logoColor=white&link=https://www.twitter.com/@_nilanjandeb/)](https://www.twitter.com/@_nilanjandeb/)
 
 ---
 
