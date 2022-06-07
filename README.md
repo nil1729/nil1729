@@ -1,14 +1,12 @@
 ![Banner](https://raw.githubusercontent.com/nil1729/nil1729/master/assets/nilanjan.jpg)
 
-## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/wave.gif" width="30px">
+## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/wave.gif" width="30px" height="30px">
 
-I am a junior Web developer pursuing B.E. Computer Science at BITS Pilani, India. I love solving problems with JavaScript and C++ and creating web based projects with new technologies.
-Please feel free to clone projects, raise issues and submit PRs. Open to help and take guidance from others to improve myself, contribute and explore interesting open source projects. Ask me anything [here](https://nilanjan.xyz) or connect here.
+I am a Web developer pursuing B.E. Computer Science at BITS Pilani. I love to solve problems with JavaScript and C++ and create web-based projects with new technologies.
+Please feel free to clone projects, raise issues and submit PRs. I am open to helping and taking guidance from others to improve myself, contribute, and explore interesting open-source projects. Ask me anything [here](https://nilanjan.xyz).
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nilanjan_Deb-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilanjan-deb/)](https://www.linkedin.com/in/nilanjan-deb/)
-[![Facebook Badge](https://img.shields.io/badge/-Nilanjan_Deb-3b5998?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/nilanjan.deb.33/)](https://www.facebook.com/nilanjan.deb.33/)
 [![Gmail Badge](https://img.shields.io/badge/-nilanjan172svian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:001pritam2012@gmail.com)](mailto:nilanjan172nsvian@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-_nil_deb-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nil_deb/)](https://www.instagram.com/_nil_deb/)
 [![Twitter Badge](https://img.shields.io/badge/-@_nilanjandeb-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/@_nilanjandeb/)](https://www.twitter.com/@_nilanjandeb/)
 
 ---
@@ -31,10 +29,12 @@ Please feel free to clone projects, raise issues and submit PRs. Open to help an
 ### 𝙾𝚝𝚑𝚎𝚛 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝙸 𝚞𝚜𝚎𝚍
 
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase&logoColor=yellow)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 𝚂𝚘𝚖𝚎 𝚗𝚎𝚛𝚍𝚢 𝚜𝚝𝚞𝚏𝚏 𝚝𝚑𝚊𝚝 𝚢𝚘𝚞 𝚖𝚊𝚢 𝚕𝚒𝚔𝚎
 
