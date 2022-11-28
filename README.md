@@ -3,11 +3,11 @@
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/wave.gif" width="30px" height="30px">
 
 I am a Web developer pursuing B.E. Computer Science at BITS Pilani. I love to solve problems with JavaScript and C++ and create web-based projects with new technologies.
-Please feel free to clone projects, raise issues and submit PRs. I am open to helping and taking guidance from others to improve myself, contribute, and explore interesting open-source projects. Ask me anything [here](https://nilanjan.xyz).
+Please feel free to clone projects, raise issues and submit PRs. I am open to helping and taking guidance from others to improve myself, contribute, and explore interesting open-source projects. Ask me anything [here](https://nilanjan.tech).
 
-[![Linkedin Badge](https://img.shields.io/badge/-Nilanjan_Deb-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilanjan-deb/)](https://www.linkedin.com/in/nilanjan-deb/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nilanjan_Deb-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nil1729/)](https://www.linkedin.com/in/nil1729/)
 [![Gmail Badge](https://img.shields.io/badge/-nilanjan172svian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:001pritam2012@gmail.com)](mailto:nilanjan172nsvian@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@_nilanjandeb-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/@_nilanjandeb/)](https://www.twitter.com/@_nilanjandeb/)
+[![Twitter Badge](https://img.shields.io/badge/-@nil1729-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/@nil1729/)](https://www.twitter.com/@nil1729/)
 
 ---
 
@@ -38,9 +38,9 @@ Please feel free to clone projects, raise issues and submit PRs. I am open to he
 
 ### 𝚂𝚘𝚖𝚎 𝚗𝚎𝚛𝚍𝚢 𝚜𝚝𝚞𝚏𝚏 𝚝𝚑𝚊𝚝 𝚢𝚘𝚞 𝚖𝚊𝚢 𝚕𝚒𝚔𝚎
 
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=flat-square&logo=Hackerrank&logoColor=green&link=https://www.hackerrank.com/Genesis_NIL_AG)](https://www.hackerrank.com/Genesis_NIL_AG)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=flat-square&logo=Hackerrank&logoColor=green&link=https://www.hackerrank.com/nil1729)](https://www.hackerrank.com/nil1729)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=Codeforces&link=https://codeforces.com/profile/loser_NIL)](https://codeforces.com/profile/loser_NIL)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/nilanjan-deb/)](https://leetcode.com/nilanjan-deb/)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/nil1729/)](https://leetcode.com/nil1729/)
 [![Hackerearth](https://img.shields.io/badge/-Hackerearth-181717?style=flat-square&logo=Hackerearth&link=https://www.hackerearth.com/@nilanjandeb)](https://www.hackerearth.com/@nilanjandeb)
 
 ---
