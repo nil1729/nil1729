@@ -38,6 +38,7 @@ Please feel free to clone projects, raise issues and submit PRs. I am open to he
 
 ### 𝚂𝚘𝚖𝚎 𝚗𝚎𝚛𝚍𝚢 𝚜𝚝𝚞𝚏𝚏 𝚝𝚑𝚊𝚝 𝚢𝚘𝚞 𝚖𝚊𝚢 𝚕𝚒𝚔𝚎
 
+[![Dev](https://img.shields.io/badge/-Dev-black?style=flat-square&logo=Dev.to&link=https://dev.to/nil1729)](https://dev.to/nil1729)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=flat-square&logo=Hackerrank&logoColor=green&link=https://www.hackerrank.com/nil1729)](https://www.hackerrank.com/nil1729)
 [![Codeforces](https://img.shields.io/badge/-Codeforces-black?style=flat-square&logo=Codeforces&link=https://codeforces.com/profile/loser_NIL)](https://codeforces.com/profile/loser_NIL)
 [![Leetcode](https://img.shields.io/badge/-Leetcode-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/nil1729/)](https://leetcode.com/nil1729/)
