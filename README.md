@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/nil1729/nil1729/master/assets/nilanjan.png)
+![Banner](https://raw.githubusercontent.com/nil1729/nil1729/master/assets/nilanjandeb.com.png)
 
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/wave.gif" width="30px" height="30px">
 
