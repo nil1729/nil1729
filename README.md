@@ -1,36 +1,110 @@
-## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/wave.gif" width="30px" height="30px">
+# `Hi there, I'm Nilanjan Deb` 👋
 
-![Banner](https://i.postimg.cc/Xqr8Qk8g/nilanjandebintro.png)
+<div align="center">
 
-### 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Engineering+Specialist;Backend+Systems+Developer;Database+Optimization+Expert)](https://git.io/typing-svg)
 
-[![Gmail Badge](https://img.shields.io/badge/-nilanjan172svian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilanjan172nsvian@gmail.com)](mailto:nilanjan172nsvian@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Nilanjan_Deb-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nil1729/)](https://www.linkedin.com/in/nil1729/)
-[![Twitter Badge](https://img.shields.io/badge/-@nil1729-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/@nil1729/)](https://www.twitter.com/@nil1729/)
+</div>
 
 ---
 
-### 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢 𝚂𝚝𝚊𝚌𝚔
+## 👨‍💻 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python&logoColor=green)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=oracle&logoColor=green)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=blue)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white)
+🚀 **Software Engineer** with **3+ years** of experience building scalable data platforms and backend systems at **InMobi Group**
+
+💡 **Expertise:** Transforming complex data challenges into efficient, production-ready solutions
+
+🔧 **Specialization:**
+- **Data Engineering**: ETL pipelines, real-time streaming, and analytics platforms
+- **Backend Development**: High-performance APIs and distributed systems
+- **Database Systems**: Query optimization and data architecture
+- **Infrastructure**: Cloud-native deployments and DevOps automation
+
+📍 **Location:** Bengaluru, India
+
+⚡ **Current Focus:** Building data platforms that process billions of events daily while optimizing for performance and cost efficiency
+
+## 🔧 Core Technologies
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Data Engineering Stack
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apache-kafka)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Infrastructure & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+</div>
 
 ---
 
-### 𝚂𝚝𝚊𝚝𝚜
+## 🚀 Key Achievements
 
-![Nilanjan's Github stats](https://github-readme-stats.vercel.app/api?username=nil1729&show_icons=true&theme=merko)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nil1729&hide=SCSS&layout=compact&theme=merko)
+- **🏃‍♂️ Real-time Processing**: Reduced data latency from 1 hour to 1 minute using Spark Streaming with Kafka
+- **⚡ Query Optimization**: Architected Trino gateway system for optimized query performance
+- **📊 Data Onboarding**: Built SQL interface reducing analyst onboarding time by 70%
+- **💰 Cost Optimization**: Identified infrastructure inefficiencies, reducing costs by 30%
+- **🔐 Security Integration**: Implemented OPA with Trino for granular access control and data governance
+- **📈 Operational Efficiency**: Developed P2P delivery platform boosting efficiency by 70%
 
 ---
 
-### 𝚃𝚒𝚖𝚎⌚ 𝚒𝚜 𝚙𝚛𝚎𝚌𝚒𝚘𝚞𝚜, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚜𝚘 𝚖𝚞𝚌𝚑 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ❤️
+## 📊 GitHub Stats
 
+<div align="center">
+
+![Nilanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nil1729&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nil1729&theme=github-compact&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+**Software Engineer @ InMobi Group** *(Jul 2022 - Present)*
+- Data platform architecture and optimization
+- Real-time streaming pipelines with Kafka & Spark
+- Query performance optimization with Trino
+- Infrastructure automation and cost optimization
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilanjan1729nsvian@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nil1729/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nilanjandeb.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nil1729)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nil1729&color=blueviolet&style=flat-square&label=Profile+Views)
+
+**Building scalable data systems and optimizing for performance** 🚀
+
+</div>
