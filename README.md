@@ -1,8 +1,6 @@
-![Banner](https://raw.githubusercontent.com/nil1729/nil1729/master/assets/nilanjandeb.com.png)
-
 ## 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/wave.gif" width="30px" height="30px">
 
-Hi, I am Nilanjan. I am a software engineer who love to build scalable systems keeping user experience in mind. I love to read about databases, networks & web technologies. Currently exploring the field of data engineering. You can find my work here on GitHub. I have written a blog on CI/CD with github actions on [Dev.to](https://dev.to/nil1729/auto-deploy-a-nodejs-application-with-aws-ec2-and-github-actions-epe).
+![Banner](https://i.postimg.cc/Xqr8Qk8g/nilanjandebintro.png)
 
 ### 𝙻𝚎𝚝'𝚜 𝙲𝚘𝚗𝚗𝚎𝚌𝚝
 
@@ -35,3 +33,4 @@ Hi, I am Nilanjan. I am a software engineer who love to build scalable systems k
 ---
 
 ### 𝚃𝚒𝚖𝚎⌚ 𝚒𝚜 𝚙𝚛𝚎𝚌𝚒𝚘𝚞𝚜, 𝚃𝚑𝚊𝚗𝚔 𝚢𝚘𝚞 𝚜𝚘 𝚖𝚞𝚌𝚑 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐 𝚖𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 ❤️
+
