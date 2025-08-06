@@ -43,8 +43,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nil1729&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=nil1729&theme=burnt-neon"/>
+
+| Stats | Streak |
+|-------|--------|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nil1729&show_icons=true&theme=dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=nil1729&theme=dark) |
+
 </div>
 
 
@@ -58,5 +61,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nil1729)
 
 </div>
+
 
 
