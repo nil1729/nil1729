@@ -34,6 +34,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 </div>
@@ -44,7 +45,7 @@
 <div align="center">
 
 ![Nilanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nil1729&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nil1729&theme=github-compact&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nil1729&theme=dark)
 
 </div>
 
@@ -59,3 +60,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nil1729)
 
 </div>
+
