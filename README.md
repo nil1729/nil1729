@@ -1,28 +1,12 @@
-# `Hi there, I'm Nilanjan Deb` 👋
+# 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝚏𝚎𝚕𝚕𝚘𝚠 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/> <img alt="👋" src="https://raw.githubusercontent.com/nil1729/nil1729/master/assets/wave.gif" width="30px" height="30px">
+
+![Banner](https://i.postimg.cc/Xqr8Qk8g/nilanjandebintro.png)
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Engineering+Specialist;Backend+Systems+Developer;Database+Optimization+Expert)](https://git.io/typing-svg)
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-🚀 **Software Engineer** with **3+ years** of experience building scalable data platforms and backend systems at **InMobi Group**
-
-💡 **Expertise:** Transforming complex data challenges into efficient, production-ready solutions
-
-🔧 **Specialization:**
-- **Data Engineering**: ETL pipelines, real-time streaming, and analytics platforms
-- **Backend Development**: High-performance APIs and distributed systems
-- **Database Systems**: Query optimization and data architecture
-- **Infrastructure**: Cloud-native deployments and DevOps automation
-
-📍 **Location:** Bengaluru, India
-
-⚡ **Current Focus:** Building data platforms that process billions of events daily while optimizing for performance and cost efficiency
 
 ## 🔧 Core Technologies
 
@@ -54,18 +38,6 @@
 
 </div>
 
----
-
-## 🚀 Key Achievements
-
-- **🏃‍♂️ Real-time Processing**: Reduced data latency from 1 hour to 1 minute using Spark Streaming with Kafka
-- **⚡ Query Optimization**: Architected Trino gateway system for optimized query performance
-- **📊 Data Onboarding**: Built SQL interface reducing analyst onboarding time by 70%
-- **💰 Cost Optimization**: Identified infrastructure inefficiencies, reducing costs by 30%
-- **🔐 Security Integration**: Implemented OPA with Trino for granular access control and data governance
-- **📈 Operational Efficiency**: Developed P2P delivery platform boosting efficiency by 70%
-
----
 
 ## 📊 GitHub Stats
 
@@ -76,17 +48,6 @@
 
 </div>
 
----
-
-## 💼 Professional Experience
-
-**Software Engineer @ InMobi Group** *(Jul 2022 - Present)*
-- Data platform architecture and optimization
-- Real-time streaming pipelines with Kafka & Spark
-- Query performance optimization with Trino
-- Infrastructure automation and cost optimization
-
----
 
 ## 🌐 Connect With Me
 
@@ -96,15 +57,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nil1729/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nilanjandeb.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nil1729)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=nil1729&color=blueviolet&style=flat-square&label=Profile+Views)
-
-**Building scalable data systems and optimizing for performance** 🚀
 
 </div>
