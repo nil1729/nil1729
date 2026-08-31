@@ -44,7 +44,7 @@
 
 <div align="center">
 
-![Nilanjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nil1729&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true)
+![Nilanjan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=nil1729&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 </div>
 
